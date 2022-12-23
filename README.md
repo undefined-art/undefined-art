@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimg0.joyreactor.com%2Fpics%2Fcomment%2Fgif-pixel-art-girl-cat-1336874.gif&f=1&nofb=1&ipt=666656f6637bf46e68958900f79be0ace25b527c59419b8b83ec26d7a0d0011d&ipo=images" width="150"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimg0.joyreactor.com%2Fpics%2Fcomment%2Fgif-pixel-art-girl-cat-1336874.gif&f=1&nofb=1&ipt=666656f6637bf46e68958900f79be0ace25b527c59419b8b83ec26d7a0d0011d&ipo=images" width="175"/>
 </div>
  
 <div id="stack" align="center">
@@ -17,10 +17,9 @@
 <hr>
 
 ```
-const self = {
-  likes: ['coffee', 'my cats', 'reading', 'gaming'],
-  code: [Javascript, Typescript],
-  tools: [React, Redux, Node, Jest, Material UI, MobX],
-  focus: 'Learning SSR, React Native',
+const Medforn = {
+  likes: ['coffee', 'reading', 'gaming'],
+  stack: ['typescript', 'react'],
+  focus: ['deep dive in typescript', 'clean code patterns', 'algorithms', 'next'],
 }
 ```
