@@ -19,7 +19,7 @@
 ```
 const Medforn = {
   likes: ['coffee', 'reading', 'gaming'],
-  stack: ['typescript', 'react'],
-  focus: ['deep dive in typescript', 'clean code patterns', 'algorithms', 'next'],
+  stack: ['typescript', 'react', 'next', 'solid'],
+  focus: ['clean code patterns', 'algorithms'],
 }
 ```
