@@ -86,23 +86,6 @@ $ echo $MOTTO
 
 </details>
 
-<details>
-<summary><b>📊 stats - GitHub Statistics</b></summary>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=undefined-art
-&show_icons=true&theme=dark&bg_color=0d1117&text_color=00FF41&icon_color=00FF41&title_color=00FF41&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=undefined-art
-&theme=dark&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefined-art
-&layout=compact&theme=dark&bg_color=0d1117&text_color=00FF41&title_color=00FF41&hide_border=true" alt="Top Languages" />
-</div>
-
-</details>
-
 ## 🎮 Interactive Terminal
 
 <div>
