@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-00FF41?style=for-the-badge&logo=terminal" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Not%20Looking%20for%20Work-FF4444?style=for-the-badge&logo=terminal" alt="Status" />
   <img src="https://img.shields.io/badge/Location-Earth%2C%20Milky%20Way-00FF41?style=for-the-badge&logo=location" alt="Location" />
-  <img src="https://img.shields.io/badge/Timezone-UTC%2B0-00FF41?style=for-the-badge&logo=clock" alt="Timezone" />
+  <img src="https://img.shields.io/badge/Timezone-UTC%2B2-00FF41?style=for-the-badge&logo=clock" alt="Timezone" />
 </div>
 
 ---
