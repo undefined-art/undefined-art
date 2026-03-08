@@ -1,76 +1,75 @@
 > "Simplicity is prerequisite for reliability."
-> — Edsger W. Dijkstra
+> Edsger W. Dijkstra
 
 ## About
 
-Senior Frontend Engineer with 5+ years of experience building scalable, high-performance web applications.
+Senior Frontend Engineer with 5+ years of experience building scalable web applications. I focus on performance, clean architecture and long-term maintainability.
 
-I design and implement frontend systems that are:
-- Scalable
-- Type-safe
-- Performance-oriented
-- Maintainable long-term
-
-I approach frontend as a distributed system running in the browser — not just a UI layer.
+I design frontend systems that stay stable as the product and team grow. My work covers architecture, performance and developer experience.
 
 ## Technical Expertise
 
 ### Frontend Architecture
-- React (Concurrent Rendering, Suspense)
-- Next.js (SSR, SSG, ISR, Edge Runtime)
-- TypeScript (strict mode, advanced generics)
-- State management patterns (Redux, Zustand, server-state separation)
-- Modular and domain-driven frontend architecture
-- Design systems & component libraries
+
+- React with Concurrent Rendering and Suspense
+- Next.js with SSR, SSG, ISR and Edge Runtime
+- TypeScript in strict mode with advanced generics
+- State management with Redux, Zustand and server-state separation
+- Modular frontend architecture with domain boundaries
+- Design systems and reusable component libraries
 
 ### Performance Engineering
-- Core Web Vitals optimization
-- Code splitting & dynamic imports
-- Rendering optimization & memoization strategies
-- Bundle analysis & performance budgets
-- Profiling & monitoring
 
-### Backend & APIs
-- Node.js
-- REST & GraphQL
+- Core Web Vitals optimization in production environments
+- Code splitting and dynamic imports
+- Rendering optimization and memoization strategies
+- Bundle analysis and performance budgets
+- Profiling and runtime monitoring
+
+### Backend and APIs
+
+- Node.js services for frontend integration
+- REST and GraphQL APIs
 - Contract-first API design
-- Authentication & authorization flows
-- API integration at scale
+- Authentication and authorization flows
+- Integration with large-scale APIs
 
-### Infrastructure & Tooling
-- CI/CD pipelines
-- Docker
-- GitHub Actions
-- Monorepos (Turborepo / Nx)
-- ESLint, Prettier, automated testing
+### Infrastructure and Tooling
+
+- CI/CD pipelines for automated builds and deployments
+- Docker environments for consistent development
+- GitHub Actions for automation
+- Monorepos with Turborepo and Nx
+- ESLint, Prettier and automated testing
 
 ## Engineering Principles
 
-- Write code that scales with the team.
-- Prefer clarity over clever abstractions.
-- Strong typing reduces production incidents.
-- Measure before optimizing.
-- Performance is a product feature.
-- DX (Developer Experience) directly impacts delivery speed.
+- Write code that scales with the team size
+- Prefer simple solutions over complex abstractions
+- Strong typing reduces production errors
+- Measure performance before optimizing code
+- Treat performance as a product requirement
+- Improve developer experience to increase delivery speed
 
 ## System Design Focus
 
-- Frontend architecture for large-scale applications
-- Server-state vs client-state separation
+- Frontend architecture for large applications
+- Separation of server-state and client-state
 - Scalable component abstractions
-- Cross-team code ownership
-- Performance-first platform decisions
+- Shared code ownership across teams
+- Platform decisions with a focus on performance
 
 ## Current Focus
 
 - High-performance React platforms
 - Frontend system design
 - Scalable design systems
-- Architecture reviews & technical leadership
+- Architecture reviews and technical leadership
 
 ## Collaboration
 
-Interested in:
-- High-impact product teams
-- Large-scale distributed systems
-- Complex frontend architecture challenges
+Interested in working with:
+
+- Product teams building complex platforms
+- Projects that require strong frontend architecture
+- Teams that value performance and engineering quality
